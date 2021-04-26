@@ -13,6 +13,11 @@
 <a href="https://stackoverflow.com/users/story/1179828">
   <img align="left" alt="Jason's Stack Overflow Profile" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" />
 </a>
+
+<a href="https://fiware.org">
+  <img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="80" align="right"/>
+</a>
+
 <br />
 
  [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jason-fox&show_icons=true"/>](https://github.com/jason-fox/)
@@ -21,3 +26,6 @@
 -  Technical coaching and training
 -  Assessor of FIWARE-ready technologies
 -  Leadership of development of showcase applications
+
+<p>
+
