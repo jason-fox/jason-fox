@@ -1,5 +1,6 @@
 ### Senior Technical Evangelist at the FIWARE Foundation
 
+<div>
 <a href="https://www.linkedin.com/in/jason-fox-8a79563/">
   <img align="left" alt="Jason's LinkedIn Profile" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,8 +18,10 @@
 <a href="https://fiware.org">
   <img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="80" align="right"/>
 </a>
+</div>
 
-<br />
+<br/>
+<hr/>
 
  [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jason-fox&show_icons=true"/>](https://github.com/jason-fox/)
 
