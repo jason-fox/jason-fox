@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://fiware.org">
-  <img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="80" align="right"/>
+  <img src="https://fiware.github.io/tutorials.Getting-Started/img/Fiware.png" width="80" align="right"/>
 </a>
 </div>
 
