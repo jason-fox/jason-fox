@@ -20,4 +20,4 @@
 -  Development of FIWARE technologies
 -  Technical coaching and training
 -  Assessor of FIWARE-ready technologies
- Leadership of development of showcase applications
+-  Leadership of development of showcase applications
