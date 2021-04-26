@@ -10,7 +10,7 @@
   <img align="left" alt="FIWARE Wednesday Webinars YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 
-<a href="https://www.kaggle.com/jason-fox">
+<a href="https://stackoverflow.com/users/story/1179828">
   <img align="left" alt="Jason's Stack Overflow Profile" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" />
 </a>
 <br />
