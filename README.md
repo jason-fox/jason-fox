@@ -1,6 +1,4 @@
-### Jason Fox
-
-
+### Senior Technical Evangelist at the FIWARE Foundation
 
 <a href="https://www.linkedin.com/in/jason-fox-8a79563/">
   <img align="left" alt="Jason's LinkedIn Profile" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,7 +15,7 @@
 </a>
 <br />
 
-Senior Technical Evangelist at the FIWARE Foundation [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jason-fox&show_icons=true"/>](https://github.com/jason-fox/)
+ [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jason-fox&show_icons=true"/>](https://github.com/jason-fox/)
 
 -  Development of FIWARE technologies
 -  Technical coaching and training
