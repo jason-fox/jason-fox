@@ -1,4 +1,4 @@
-### Senior Technical Evangelist at the FIWARE Foundation
+### Technical Community Manager and Evangelist at the FIWARE Foundation
 
 <div>
 <a href="https://www.linkedin.com/in/jason-fox-8a79563/">
