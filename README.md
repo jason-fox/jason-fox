@@ -23,8 +23,6 @@ Strong engineering professional skilled in Linked Data, NGSI-LD, JavaScript, Jav
 <br/>
 <hr/>
 
- [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jason-fox&show_icons=true"/>](https://github.com/jason-fox/)
-
 -  Development of Technology using the NGSI-LD ETSI Standard
 -  Technical coaching and training
 -  Assessor of FIWARE-ready technologies
